@@ -23,7 +23,7 @@ Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è 
     SE trailer piace a tutti 
         andiamo -Guardiamo film/serie
     ALTRIMENTI
-    -Decidiamo un genere di un film/serie da guardare
+    -Scegliamo un genere di un film/serie da guardare
         SE il genere piace a tutti
             scegliamo un film/serie
         ALTRIMENTI
