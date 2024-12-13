@@ -28,12 +28,18 @@ Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è 
             scegliamo un film/serie
         ALTRIMENTI
             ritorna a -Decidiamo un genere
+            FINCHE
+                non finiscono i generi
 
 -Scegliamo il film/serie
     SE piace a tutti
         Guardiamo film/serie
     ALTRIMENTI
         ritorna a -Scegliamo il film/serie
+        FINCHE
+            Non ci annoiamo
 
 
 -Guardiamo film/serie
+
+-Spengo tv
